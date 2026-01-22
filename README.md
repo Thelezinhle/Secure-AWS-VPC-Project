@@ -184,3 +184,20 @@ This project is for educational and demonstration purposes. Feel free to use it 
 Last Updated: January 2026  
 AWS Region: us-east-1  
 Project Status: ✅ Successfully Deployed and Tested
+License
+
+This project is licensed under the **Apache License 2.0**.
+
+See the [LICENSE](LICENSE) file for full text, or visit:
+[https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+Key permissions:
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+Conditions:
+- License and copyright notice must be included
+- State changes made to files
