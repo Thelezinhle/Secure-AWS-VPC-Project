@@ -25,7 +25,9 @@ A Private Subnet that does not allow direct inbound internet access
 
 The public subnet hosts a NAT Gateway, which enables resources in the private subnet to initiate outbound internet connections while maintaining security isolation.
 
-![Secure AWS VPC Architecture Diagram]https://github.com/Thelezinhle/Secure-AWS-VPC-Project/blob/main/architecture-diagram.drawio.png
+![Secure AWS VPC Architecture Diagram]
+<img width="1011" height="931" alt="architecture-diagram drawio" src="https://github.com/user-attachments/assets/0c61c492-c787-4d34-a6db-d1aee6389ff7" />
+
 
 Network Configuration Details
 
@@ -119,14 +121,32 @@ Internet Gateway Attachment: IGW attached to the VPC
 EC2 Instances: Bastion Host and Private Instance configurations
 
 ![VPC CIDR Block]
+<img width="1920" height="890" alt="01-vpc-created" src="https://github.com/user-attachments/assets/3f2c4097-797b-4169-9db5-2f1232d41751" />
+
 ![Public Subnet Details]
+<img width="1920" height="898" alt="public-subnet-details" src="https://github.com/user-attachments/assets/50e099a0-7d9c-4b91-b294-9df003bde0f2" />
+
 ![Private Subnet Details]
+<img width="1920" height="869" alt="private-subnet-details" src="https://github.com/user-attachments/assets/330b0bce-3d2f-4a5a-8cce-97b798d6f7a3" />
+
 ![Internet Gateway Attachment]
+<img width="1920" height="885" alt="03-igw-attached" src="https://github.com/user-attachments/assets/322718b5-bd16-4186-8915-9d68525f802f" />
+
 ![NAT Gateway Status]
+<img width="1920" height="882" alt="04-nat-gateway" src="https://github.com/user-attachments/assets/bf2d3950-fe41-41da-9cf1-e03356023ddf" />
+
 ![Public Subnet Route Table]
+<img width="1920" height="891" alt="Public-Route-Table" src="https://github.com/user-attachments/assets/b71b02a2-73b1-429e-ae01-78bef3a0aba1" />
+
 ![Private Subnet Route Table]
+<img width="1920" height="925" alt="Private-Route-Table" src="https://github.com/user-attachments/assets/4c303c56-9c4b-43e7-86cc-eb05ffb20cc7" />
+
 ![Bastion Host Details]
+<img width="1920" height="848" alt="bastion-host-instance" src="https://github.com/user-attachments/assets/fe480bc8-25a1-4746-86c4-3354ee605866" />
+
 ![Private Instance Details]
+
+<img width="1920" height="875" alt="Private-Instance" src="https://github.com/user-attachments/assets/37311df0-c18b-4026-991b-9453ad834244" />
 
 Conclusion
 
