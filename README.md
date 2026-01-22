@@ -177,10 +177,6 @@ For any questions or concerns, please contact Thelezinhe Buthelezi on [GitHub](h
 
 License
 
-This project is for educational and demonstration purposes. Feel free to use it as a reference for your own AWS VPC implementations.
-
----
-
 Last Updated: January 2026  
 AWS Region: us-east-1  
 Project Status: ✅ Successfully Deployed and Tested
